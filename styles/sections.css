@@ -1,0 +1,41 @@
+#smartphone-img {
+    margin-top: 5rem;
+    background: url(../assets/illustration.svg) top/cover;
+}
+
+section{
+    & header{
+        & strong{
+            display: block;
+            font-size: var(--fs-sm) 100%;
+            font-weight: var(--fw-bold);
+            font-family: var(--ff-sans);
+            letter-spacing: -0.08em;
+            text-transform: uppercase;
+            color: var(--brand-color-primary);
+        }
+
+        & h2{
+            margin-top: 0.5rem;
+            font-size: var(--fs-2xl);
+            font-weight: var(--fw-bold);
+            font-family: var(--ff-sans);
+            letter-spacing: -0.04em;
+            color: var(--text-color-primary);
+        }
+    }
+
+    & p{
+        margin-top: 1rem;
+        font-size: var(--fs-base);
+        font-weight: var(--fw-base);
+        font-family: var(--ff-sans);
+        color: var(--text-color-secondary);
+    }
+}
+
+@media (width>=80em){
+    #smartphone-img{
+        display: none;
+    }
+}
