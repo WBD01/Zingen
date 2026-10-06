@@ -50,6 +50,10 @@
     gap:1rem;
 }
 
+.grid{
+    display: grid;
+}
+
 
 
 @media(width>=80em){
