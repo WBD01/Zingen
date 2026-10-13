@@ -2,7 +2,7 @@
 
 <p align="center">
 Aplicação desenvolvida por Wagner Fagundes em treinamento para aprendizado e aperfeiçoamento em tecnologias WEB. <br/>
-<a href="https://wbd01.github.io/Formulario-Matricula/">Veja o projeto finalizado e documentação através deste link.</a>
+<a href="https://wbd01.github.io/Zingen/">Veja o projeto finalizado e documentação através deste link.</a>
 </p>
 
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Trata-se de um formulário de Matrícula que pode ser usando em escolas infantis.
 
-- [Acesse o projeto finalizado, online](https://wbd01.github.io/Formulario-Matricula/)
+- [Acesse o projeto finalizado, online](https://wbd01.github.io/Zingen/)
 
 ## :memo: Licença
 
