@@ -14,7 +14,7 @@ Aplicação desenvolvida por Wagner Fagundes em treinamento para aprendizado e a
 <br>
 
 <p align="center">
-  <img alt="Projeto Formulário de Matrícula" src="assets/readme.png" width="100%">
+  <img alt="Projeto Formulário de Matrícula" src="assets/readme2.png" width="100%">
   
 </p>
 
