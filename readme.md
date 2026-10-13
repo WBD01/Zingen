@@ -1,4 +1,4 @@
-<h1 align="center"> Formulário de Matrícula </h1>
+<h1 align="center"> Zingen Music App </h1>
 
 <p align="center">
 Aplicação desenvolvida por Wagner Fagundes em treinamento para aprendizado e aperfeiçoamento em tecnologias WEB. <br/>
